@@ -16,3 +16,8 @@
 - added "title" attribute to links
 - increased contrast on "seo" in company name in header.
 - added an overflow attribute to the header, set to auto, so the links stay within the container on smaller windows or if text is enlarged.
+
+## Commit 4 - div to sec, css notes, seo color
+- updated &lt;divs&gt; to &lt;sections&gt; for heightened accessibility. 
+- added more notes in style.css
+- tweaked "seo" color in company name in header.

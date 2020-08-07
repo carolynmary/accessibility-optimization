@@ -1,4 +1,4 @@
-/* UNIVERSAL Styling */
+/* UNIVERSAL and other general styling */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -12,7 +12,8 @@ a {
     text-decoration: none;
 }
 p {
-    font-size: 16px;
+    font-size: 16px; /* I would recommend to client to enlarge size to 18px but 16 is acceptable. */
+    /* line-height: 150%;  <-- I would recommend this line height, but I won't change for assignment because it changes box heights and could be a rabbit hole.*/
 }
 
 
@@ -23,14 +24,14 @@ header {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
-    overflow: auto;
+    overflow: auto; /* added property so nav doesn't flow outside of container at smaller screen sizes */
 }
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 .seo {
-    color: #aaa;
+    color: #ababab;
 }
 
 
@@ -86,7 +87,7 @@ main img {
 .horzBlueContainer {
     margin-bottom: 20px;
     padding: 50px;
-    height: 300px;
+    min-height: 300px;  /* changed to min-height' from 'height' so text doesn't flow outside container */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
@@ -95,7 +96,7 @@ main img {
 
 
 /* ASIDE - List of Benefits */
-aside div {
+aside section {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -118,7 +119,6 @@ aside img  {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
 
 
 

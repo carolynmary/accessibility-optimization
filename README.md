@@ -21,3 +21,6 @@
 - updated &lt;divs&gt; to &lt;sections&gt; for heightened accessibility. 
 - added more notes in style.css
 - tweaked "seo" color in company name in header.
+
+## Commit 5 - final push
+- no important edits made, just a final push to double check latest is uploaded.

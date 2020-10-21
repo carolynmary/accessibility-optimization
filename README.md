@@ -1,26 +1,26 @@
-# accessibility-optimization
+![header](./assets/images/cm_header.png)
 
-## Commit 1 - initial
+# Accessibility Optimization   
+ 
+- - -
+- - -
+### Refactored code to optimize its’ accessibility.
+- - -
+- - -
+  
+## Questions & Feedback
+  
+Have a question or feedback? Send me a note or just say hi, I'd be happy to hear from you!
+  
+> “Knowledge is having the right answer. Intelligence is asking the right question.” ~ Unknown
+  
+Email: carolyn@carolynmary.com </br>
+  
+GitHub: [carolynmary](https://github.com/carolynmary) </br>
+  
+Porfolio: [carolynmary.com](https://carolynmary.com) 
+  
+</br>
 
-## Commit 2 - code cleanup and updated to semantic html
-- Went through the CSS and deleted repeated code that could be condensed into less buckets.
-- Reordered the buckets to match the flow of the HTML and added notes.
-- Went through HTML and updated tags to semantic html wherever possible. At the same time, I updated the CSS to match.
-- Added notes to HTML
-- Updated page title
-- checked all links were working
-
-## Commit 3 - accessibility sweep
-- more code cleanup: removed unnecessary characters and closing tags.
-- added &lt;alt&gt; tags to images in html.
-- added "title" attribute to links
-- increased contrast on "seo" in company name in header.
-- added an overflow attribute to the header, set to auto, so the links stay within the container on smaller windows or if text is enlarged.
-
-## Commit 4 - div to sec, css notes, seo color
-- updated &lt;divs&gt; to &lt;sections&gt; for heightened accessibility. 
-- added more notes in style.css
-- tweaked "seo" color in company name in header.
-
-## Commit 5 - final push
-- no important edits made, just a final push to double check latest is uploaded.
+![footer](./assets/images/cm_footer.png)
+© 2020 Carolyn Mary Stolze
